@@ -95,6 +95,8 @@ is in `runtime/terms.json`; this page is for everything else and agrees with it.
 | Sector Blitz (event), Operation: Sector Blitz | 星区闪击，星区闪击行动 |
 | Influence Points (IP) | 影响力点数 (IP) |
 | King of the Hill / KOTH Bonus | 占领奖励 |
+| Sectors Controlled | 控制的星区 |
+| Position (leaderboard) | 名次 |
 | Event Rules / Results | 活动规则 / 活动结果 |
 | Rival (guild, faction) | 敌对（公会、势力） |
 | Task, Executing | 任务，执行中 |
