@@ -1,0 +1,7 @@
+{
+  "view.messageHeaderText = 'IMPORTANT';": "view.messageHeaderText = '重要提示';",
+  "The following assets are held by this device. ${wording.ifLoggedOut}, they will be swept to your": "以下资源保存在这台设备上。${wording.ifLoggedOut}，这些资源将转入你的",
+  "data-sui-tooltip=\"The Player Account holds your funds independently of any signing device.\"": "data-sui-tooltip=\"玩家账号独立于任何设备保管你的资源。\"",
+  ">Player Account.</a>": ">玩家账号。</a>",
+  "data-sui-tooltip=\"Alpha Matter\"": "data-sui-tooltip=\"阿尔法物质\""
+}

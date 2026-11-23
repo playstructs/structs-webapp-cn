@@ -1,0 +1,9 @@
+{
+  "view.headerBtnLabel = 'Log Out';": "view.headerBtnLabel = '退出登录';",
+  "view.messageHeaderText = 'Log out of this device?';": "view.messageHeaderText = '要在本设备上退出登录吗？';",
+  "This device's key will be removed from this browser. To play here again you will need your": "本设备的密钥将从此浏览器中移除。要再次在此游玩，你需要",
+  "data-sui-tooltip=\"The words you saved when you created your account.\"": "data-sui-tooltip=\"创建账号时保存的那组单词。\"",
+  ">Recovery Key</a>\n      or approval from another device.": ">恢复密钥</a>\n      或其他设备的批准。",
+  "view.confirmBtn1Label = 'Stay Logged In';": "view.confirmBtn1Label = '保持登录';",
+  "view.confirmBtn2Label = 'Log Out';": "view.confirmBtn2Label = '退出登录';"
+}

@@ -1,0 +1,14 @@
+{
+  "MenuPage.setPageTemplateHeaderBtn('Activate New Device');": "MenuPage.setPageTemplateHeaderBtn('激活新设备');",
+  "<div>The following device is requesting access to your account:</div>": "<div>以下设备请求访问你的账号：</div>",
+  "sui-text-primary\">New Device</div>": "sui-text-primary\">新设备</div>",
+  "<div>${userAgent.getBrowser()} Browser</div>": "<div>${userAgent.getBrowser()} 浏览器</div>",
+  "<div class=\"sui-text-header\">Device Seal</div>": "<div class=\"sui-text-header\">设备印章</div>",
+  "sui-text-hint\">Ensure this image matches the one shown on the device to be activated.</div>": "sui-text-hint\">请确认此图案与待激活设备上显示的一致。</div>",
+  "<div>Set permissions for the new device:</div>": "<div>设置新设备的权限：</div>",
+  "\">Manage Devices</label>": "\">管理设备</label>",
+  "\">Transfer Assets</label>": "\">发送资源</label>",
+  ">Approve Device</a>": ">批准设备</a>",
+  ">Deny</a>": ">拒绝</a>",
+  ">This device can only grant permissions it has itself.</div>": ">本设备只能授予自己拥有的权限。</div>"
+}

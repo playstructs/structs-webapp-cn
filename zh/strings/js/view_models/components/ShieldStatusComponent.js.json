@@ -1,0 +1,6 @@
+{
+  "'Vulnerable'": "'脆弱'",
+  "'Secure'": "'安全'",
+  "?? 'N/A';": "?? '无';",
+  "alt=\"${status}\"": "alt=\"${__zh.t(status)}\""
+}

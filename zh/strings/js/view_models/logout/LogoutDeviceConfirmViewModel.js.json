@@ -1,0 +1,9 @@
+{
+  "data-sui-tooltip=\"The words you saved when you created your account.\"": "data-sui-tooltip=\"创建账号时保存的那组单词。\"",
+  ">Recovery Key</a>`;": ">恢复密钥</a>`;",
+  "view.messageHeaderText = 'Log out of this device?';": "view.messageHeaderText = '要在本设备上退出登录吗？';",
+  "This device's key will be removed from this browser. To play here again you will need your": "本设备的密钥将从此浏览器中移除。要再次在此游玩，你需要",
+  "view.messageHeaderText = 'Log out this device?';": "view.messageHeaderText = '要让这台设备退出登录吗？';",
+  "It will lose access to your account. To play on it again you will need your": "它将无法再访问你的账号。要再次在该设备上游玩，你需要",
+  "${recoveryKey}\n        or approval from another device.": "${recoveryKey}\n        或其他设备的批准。"
+}

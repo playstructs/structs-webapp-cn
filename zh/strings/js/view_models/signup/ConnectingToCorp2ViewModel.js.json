@@ -1,0 +1,7 @@
+{
+  "alt=\"SNC logo\"": "alt=\"@GUILD@标志\"",
+  ">WE KNOW BETTER.</h2>": ">@MOTTO@</h2>",
+  "`Connection Successful.`": "`连接成功。`",
+  "'SN.Corporation'": "'@GUILD@'",
+  "src=\"/img/logo-snc.gif\"": "src=\"@BADGE@\""
+}

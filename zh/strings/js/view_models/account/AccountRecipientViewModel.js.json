@@ -1,0 +1,12 @@
+{
+  "let html = 'Non-Player Address';": "let html = '非玩家账号';",
+  ": 'Name Redacted';": ": '名称已隐藏';",
+  "? `Player Details` : 'Recipient Details';": "? `玩家详情` : '接收方详情';",
+  "<div>Guild</div>": "<div>公会</div>",
+  "            Player ID\n": "            玩家 ID\n",
+  "data-sui-tooltip=\"The unique in-game identifier for the player.\"": "data-sui-tooltip=\"玩家在游戏中的唯一标识。\"",
+  "            Blockchain Address\n": "            账号地址\n",
+  "data-sui-tooltip=\"The public wallet address for the player.\"": "data-sui-tooltip=\"玩家的公开账号地址。\"",
+  "MenuPage.setPageTemplateHeaderBtn('Recipient',": "MenuPage.setPageTemplateHeaderBtn('接收方',",
+  ">Select This Player</a>": ">选择此玩家</a>"
+}

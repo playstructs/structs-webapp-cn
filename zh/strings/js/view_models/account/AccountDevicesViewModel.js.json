@@ -1,0 +1,9 @@
+{
+  "location = `[Primary Device]<br>${location}`;": "location = `[主设备]<br>${location}`;",
+  "deviceInfoList.push('This Device');": "deviceInfoList.push('本设备');",
+  "deviceInfoList.push(`${userAgent.getBrowser()} Browser`);": "deviceInfoList.push(`${userAgent.getBrowser()} 浏览器`);",
+  "deviceInfoList.push(`Last Activity: ${lastActivity}`);": "deviceInfoList.push(`最近活动：${lastActivity}`);",
+  ">Manage</a>": ">管理</a>",
+  "        'Devices',\n": "        '设备',\n",
+  "sui-mod-primary\">Activate New Device</button>": "sui-mod-primary\">激活新设备</button>"
+}

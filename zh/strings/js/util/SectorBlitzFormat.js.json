@@ -1,0 +1,10 @@
+{
+  "`${days}D ${hours}H ${minutes}M`": "`${days}天 ${hours}时 ${minutes}分`",
+  "?? `Sector ${": "?? `星区 ${",
+  "`Guild ${guildId}`": "`公会 ${guildId}`",
+  "`${items[0]} and ${items[1]}`": "`${items[0]}和${items[1]}`",
+  "join(', ')}, and ${": "join('、')}和${",
+  "$keep": [
+    "PID #"
+  ]
+}

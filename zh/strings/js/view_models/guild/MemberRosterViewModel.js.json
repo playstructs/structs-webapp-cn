@@ -1,0 +1,10 @@
+{
+  "          Address ${playerSearchResultDTO.address}\n": "          地址 ${playerSearchResultDTO.address}\n",
+  ": 'Name Redacted'": ": '名称已隐藏'",
+  ">View</a>": ">查看</a>",
+  "`<div>Guild has no members yet.</div>`": "`<div>公会还没有成员。</div>`",
+  "MenuPage.setPageTemplateHeaderBtn('Member Roster',": "MenuPage.setPageTemplateHeaderBtn('成员名册',",
+  "$keep": [
+    "PID #"
+  ]
+}

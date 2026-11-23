@@ -1,0 +1,14 @@
+{
+  "<div class=\"sui-text-header\">Signing Paused</div>": "<div class=\"sui-text-header\">指令发送已暂停</div>",
+  "This browser has saved transaction records it cannot read, so new transactions are paused.\n                Setting them aside keeps a copy and resumes signing. A set-aside transaction may already\n                have been sent, so check your balances before repeating an action.": "此浏览器中有无法读取的指令记录，因此新指令已暂停发送。\n                将其搁置会保留一份副本并恢复发送。被搁置的指令可能\n                已经发出，重复操作前请先检查你的资源数量。",
+  "sui-mod-destructive\">Set Aside and Continue</button>": "sui-mod-destructive\">搁置并继续</button>",
+  "MenuPage.setPageTemplateHeaderBtn('Account');": "MenuPage.setPageTemplateHeaderBtn('账号');",
+  "<span class=\"sui-text-header\">Profile</span>": "<span class=\"sui-text-header\">个人资料</span>",
+  "<span class=\"sui-text-header\">Transfers</span>": "<span class=\"sui-text-header\">发送</span>",
+  "<span class=\"sui-text-header\">Devices</span>": "<span class=\"sui-text-header\">设备</span>",
+  "\">${addressCount} Devices Active</div>": "\">${addressCount} 台设备使用中</div>",
+  "<span class=\"sui-text-header\">Combat Tutorial</span>": "<span class=\"sui-text-header\">战斗教程</span>",
+  "$keep": [
+    "PID #"
+  ]
+}

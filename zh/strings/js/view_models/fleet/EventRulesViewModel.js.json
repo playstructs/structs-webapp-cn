@@ -1,0 +1,21 @@
+{
+  "'Multiple Raids by members of your Guild against the same planet do not earn additional points.'": "'公会成员多次突袭同一颗行星不会获得额外点数。'",
+  "'Awarded for each planet your Guild was the last to successfully Raid at contest end.'": "'活动结束时，每颗最后由你的公会突袭成功的行星都会获得此奖励。'",
+  "'Your points earned in this sector.'": "'你在本星区获得的点数。'",
+  "'Your points earned across all sectors.'": "'你在所有星区获得的点数。'",
+  "MenuPage.setPageTemplateHeaderBtn('Event Rules',": "MenuPage.setPageTemplateHeaderBtn('活动规则',",
+  "${SECTOR_BLITZ.NAME} is a time-limited event where Guilds compete to acquire": "${SECTOR_BLITZ.NAME}是一项限时活动，各公会在银河星区中争夺",
+  "<span class=\"sui-text-warning\">Influence Points</span>": "<span class=\"sui-text-warning\">影响力点数</span>",
+  "\n                across galactic sectors.\n": "\n                。\n",
+  "Launch at least 1 Raid to qualify.": "至少发动 1 次突袭即可获得资格。",
+  "Earn points for each unique rival planet successfully Raided by your Guild.": "你的公会每成功突袭一颗不同的敌对行星，就能获得点数。",
+  "The Guild with the most points in a sector controls that sector.": "星区内点数最多的公会控制该星区。",
+  "The Guild that controls the most sectors when the event ends wins the ${SECTOR_BLITZ.NAME}.": "活动结束时控制最多星区的公会赢得${SECTOR_BLITZ.NAME}。",
+  "<span class=\"sui-text-warning\">TIP:</span> Use the \"SCAN\" button on the Fleet Menu to find opponents.": "<span class=\"sui-text-warning\">提示：</span>使用舰队菜单中的“扫描”按钮寻找对手。",
+  "sui-text-header\">Scoring</div>": "sui-text-header\">计分</div>",
+  "'Win an Offensive Raid'": "'进攻突袭获胜'",
+  "'King of the Hill Bonus'": "'占领奖励'",
+  "$keep": [
+    "IP"
+  ]
+}

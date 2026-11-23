@@ -1,0 +1,9 @@
+{
+  "alt=\"ST-21 Spearpoint CMD Ship\"": "alt=\"ST-21 Spearpoint 指挥舰\"",
+  "<span class=\"sui-text-display\">CMD SHIP</span>": "<span class=\"sui-text-display\">指挥舰</span>",
+  "`You have been issued a ST-21 \"Spearpoint\" CMD Ship to explore the uncharted regions for Alpha-seeded worlds.`": "`公司已配发给您一艘 ST-21 \"Spearpoint\" 指挥舰，供您探索未知区域，寻找蕴藏阿尔法的星球。`",
+  "'SN.Corporation'": "'@GUILD@'",
+  "$keep": [
+    "ST-21 \"Spearpoint\""
+  ]
+}

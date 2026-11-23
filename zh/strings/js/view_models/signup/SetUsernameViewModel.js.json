@@ -1,0 +1,10 @@
+{
+  "Only <strong>letters</strong>, <strong>numbers</strong>, <strong>-</strong> and <strong>_</strong> are allowed. <strong>Length</strong> must be between <strong>3</strong> and <strong>20</strong> characters.": "只能使用<strong>文字</strong>、<strong>数字</strong>、<strong>-</strong> 和 <strong>_</strong>。<strong>长度</strong>须为 <strong>3</strong> 到 <strong>20</strong> 个字符。",
+  "<div class=\"set-username-profile-created\">Profile Created</div>": "<div class=\"set-username-profile-created\">档案已创建</div>",
+  "`Welcome, ${this.gameState.signupRequest.username}.`": "`欢迎您，${this.gameState.signupRequest.username}。`",
+  "<span>Display Name</span>": "<span>昵称</span>",
+  "placeholder=\"Your Name\"": "placeholder=\"您的昵称\"",
+  ">Submit</button>": ">提交</button>",
+  "`To begin, please confirm your identity.`": "`首先，请确认您的身份。`",
+  "'SN.Corporation'": "'@GUILD@'"
+}

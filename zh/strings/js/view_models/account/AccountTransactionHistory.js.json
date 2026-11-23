@@ -1,0 +1,10 @@
+{
+  "              Transaction #${transaction.id}\n": "              记录 #${transaction.id}\n",
+  "<span class=\"sui-badge sui-mod-default\">Completed</span>": "<span class=\"sui-badge sui-mod-default\">已完成</span>",
+  ">View</a>": ">查看</a>",
+  "`<div>No confirmed alpha transactions yet.</div>`": "`<div>还没有已确认的阿尔法收发记录。</div>`",
+  "MenuPage.setPageTemplateHeaderBtn('Transaction History',": "MenuPage.setPageTemplateHeaderBtn('收发记录',",
+  "$keep": [
+    "Account"
+  ]
+}

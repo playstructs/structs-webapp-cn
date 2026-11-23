@@ -1,0 +1,11 @@
+{
+  "          Address ${playerSearchResultDTO.address}\n": "          地址 ${playerSearchResultDTO.address}\n",
+  ": 'Name Redacted'": ": '名称已隐藏'",
+  ">View</a>": ">查看</a>",
+  "<div>No results found. Please try a different search term.</div>": "<div>没有找到结果，请换个关键词试试。</div>",
+  "<div>Showing the first 25 results. Try narrowing your search for better results.</div>": "<div>仅显示前 25 条结果。请缩小搜索范围。</div>",
+  "MenuPage.setPageTemplateHeaderBtn('Search Results',": "MenuPage.setPageTemplateHeaderBtn('搜索结果',",
+  "$keep": [
+    "PID #"
+  ]
+}

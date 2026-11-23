@@ -1,0 +1,8 @@
+{
+  "MenuPage.setPageTemplateHeaderBtn('Activate New Device');": "MenuPage.setPageTemplateHeaderBtn('激活新设备');",
+  "sui-mod-primary\">Return to Account</button>": "sui-mod-primary\">返回账号</button>",
+  "'Activation Failed'": "'激活失败'",
+  "'Activation Cancelled'": "'激活已取消'",
+  "'The approval did not go through, so the new device has not been activated. Nothing on your account has changed.'": "'批准未能完成，新设备没有激活。你的账号没有任何变化。'",
+  "'The new device has not been activated.'": "'新设备没有激活。'"
+}

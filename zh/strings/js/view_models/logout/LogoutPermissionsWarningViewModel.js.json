@@ -1,0 +1,6 @@
+{
+  "view.messageHeaderText = 'IMPORTANT';": "view.messageHeaderText = '重要提示';",
+  "This is the only device that can manage your devices. ${wording.ifLoggedOut}, you will be unable to activate new devices without using your": "这是唯一能管理你的设备的设备。${wording.ifLoggedOut}，要激活新设备就必须使用你的",
+  "data-sui-tooltip=\"The words you saved when you created your account.\"": "data-sui-tooltip=\"创建账号时保存的那组单词。\"",
+  ">Recovery Key.</a>": ">恢复密钥。</a>"
+}

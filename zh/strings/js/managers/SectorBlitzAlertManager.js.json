@@ -1,0 +1,3 @@
+{
+  "`Guild ${row.guild_id}`": "`公会 ${row.guild_id}`"
+}

@@ -1,0 +1,6 @@
+{
+  "MenuPage.setPageTemplateHeaderBtn('Activate New Device');": "MenuPage.setPageTemplateHeaderBtn('激活新设备');",
+  "            Device Approved\n": "            设备已批准\n",
+  "<div>The new device has been activated.</div>": "<div>新设备已激活。</div>",
+  "sui-mod-primary\">Return to Account</button>": "sui-mod-primary\">返回账号</button>"
+}

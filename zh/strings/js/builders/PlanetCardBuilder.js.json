@@ -1,0 +1,20 @@
+{
+  "alt=\"3 dots loading animation\"": "alt=\"三点加载动画\"",
+  "primaryBtnLabel = 'Command';": "primaryBtnLabel = '指挥';",
+  "alphaBaseCard.alertMessage = 'All Alpha extracted.';": "alphaBaseCard.alertMessage = '阿尔法已全部采尽。';",
+  "secondaryBtnLabel = 'Depart';": "secondaryBtnLabel = '离开';",
+  "alphaBaseCard.alertMessage = 'Depart planet?';": "alphaBaseCard.alertMessage = '要离开行星吗？';",
+  "`Fleet will travel to an undiscovered world.`": "`舰队将前往一颗未知的星球。`",
+  "primaryBtnLabel = 'Confirm';": "primaryBtnLabel = '确认';",
+  "secondaryBtnLabel = 'Cancel';": "secondaryBtnLabel = '取消';",
+  "`Fleet has arrived at ${this.gameState.keyPlayers[PLAYER_TYPES.PLAYER].planet.name}.`": "`舰队已抵达${this.gameState.keyPlayers[PLAYER_TYPES.PLAYER].planet.name}。`",
+  "primaryBtnLabel = 'View';": "primaryBtnLabel = '查看';",
+  "secondaryBtnLabel = 'Dismiss';": "secondaryBtnLabel = '关闭';",
+  "raidCard.generalMessage = 'No Raid active.';": "raidCard.generalMessage = '没有进行中的突袭。';",
+  "secondaryBtnLabel = 'Scan';": "secondaryBtnLabel = '扫描';",
+  "raidCard.alertMessage = 'No CMD Ship.';": "raidCard.alertMessage = '没有指挥舰。';",
+  "`Fleet has begun raid on ${this.gameState.keyPlayers[PLAYER_TYPES.RAID_ENEMY].getUsername()}.`": "`舰队已开始突袭 ${this.gameState.keyPlayers[PLAYER_TYPES.RAID_ENEMY].getUsername()}。`",
+  "secondaryBtnLabel = 'Retreat';": "secondaryBtnLabel = '撤退';",
+  "raidCard.alertMessage = 'Abandon raid?';": "raidCard.alertMessage = '要放弃突袭吗？';",
+  "`Fleet will return to Alpha Base.`": "`舰队将返回阿尔法基地。`"
+}

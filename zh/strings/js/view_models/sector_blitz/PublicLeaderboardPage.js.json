@@ -1,0 +1,18 @@
+{
+  ">Event Leaderboard</h1>": ">活动排行榜</h1>",
+  "${SectorBlitzFormat.sectorLabel(this.sector)} Leaderboard</h1>": "${SectorBlitzFormat.sectorLabel(this.sector)} 排行榜</h1>",
+  "return 'N/A';": "return '未知';",
+  "'Sector data is currently unavailable.'": "'星区数据暂时不可用。'",
+  "'Event Results'": "'活动结果'",
+  "`${this.remainingText(summary)} Remaining`": "`剩余 ${this.remainingText(summary)}`",
+  "alt=\"Structs\"": "alt=\"构装体\"",
+  "public-leaderboard-play-btn\">Play Now</a>": "public-leaderboard-play-btn\">立即游玩</a>",
+  "`${SectorBlitzFormat.sectorLabel(this.sector)} Statistics`": "`${SectorBlitzFormat.sectorLabel(this.sector)} 统计`",
+  "emptyHTML('Currently unavailable')": "emptyHTML('暂时不可用')",
+  "'Top Guilds'": "'顶尖公会'",
+  "'Top Players'": "'顶尖玩家'",
+  "'No Activity'": "'暂无活动'",
+  "public-battle-spectate-btn\">Spectate</a>": "public-battle-spectate-btn\">观战</a>",
+  "'Current Battles'": "'当前战斗'",
+  "'No Battles in Progress'": "'没有进行中的战斗'"
+}

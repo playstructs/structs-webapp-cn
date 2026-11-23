@@ -1,0 +1,12 @@
+{
+  "href=\"javascript:void(0)\">Player #${this.transaction.counterparty_player_id}</a>": "href=\"javascript:void(0)\">玩家 #${this.transaction.counterparty_player_id}</a>",
+  ">Back To Account</a>": ">返回账号</a>",
+  "? 'Recipient' : 'Sender';": "? '接收方' : '发送方';",
+  "MenuPage.setPageTemplateHeaderBtn('Transaction Details',": "MenuPage.setPageTemplateHeaderBtn('记录详情',",
+  "            This transaction was completed successfully.\n": "            发送已成功完成。\n",
+  "sui-text-header\">Player Details</div>": "sui-text-header\">玩家详情</div>",
+  "<div>Transaction ID</div>": "<div>记录 ID</div>",
+  "<div>Date</div>": "<div>日期</div>",
+  "<div>Amount</div>": "<div>数量</div>",
+  "'Alpha Matter',": "'阿尔法物质',"
+}

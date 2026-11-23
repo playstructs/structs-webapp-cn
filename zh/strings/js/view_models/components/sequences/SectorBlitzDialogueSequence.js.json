@@ -1,0 +1,12 @@
+{
+  "`${highlight('Priority Alert:')} Rival factions have launched a series of Raids against our assets in an effort to destabilize key ${highlight('Galactic Sectors')}.`": "`${highlight('紧急警报：')}敌对势力对我方资产发动了一连串突袭，企图动摇${highlight('银河星区')}的要冲。`",
+  "`This cannot go unanswered. You are being re-tasked to ${highlight('Operation: Sector Blitz')}.`": "`此事绝不能坐视不理。现将你调往${highlight('星区闪击行动')}。`",
+  "`Your objective is to secure our influence in each Sector by launching ${highlight('Raids')} against rival factions.`": "`你的目标是对敌对势力发动${highlight('突袭')}，确保我方在各个星区的影响力。`",
+  "`You can launch Raids and track our progress from the ${highlight('Fleet Menu')}. Click your Profile Picture to access the menu.`": "`你可以在${highlight('舰队菜单')}中发动突袭并追踪我方进度。点按头像即可打开菜单。`",
+  "used the opportunity to establish a firm grasp on key galactic sectors, securing ${sectorList(winner.sectors)}.`": "趁势牢牢掌控了银河要冲，夺得${sectorList(winner.sectors)}。`",
+  "secured ${sectorList(other.sectors)}`": "夺得了${sectorList(other.sectors)}`",
+  "used the opportunity to establish a firm grasp on galactic ${sectorList(first.sectors)} while ${SectorBlitzFormat.list(otherClauses)}.`": "趁势牢牢掌控了银河${sectorList(first.sectors)}，${SectorBlitzFormat.list(otherClauses)}。`",
+  "`${highlight('Update:')} Operation: Sector Blitz has ended. Activity in the disputed systems is returning to normal.`": "`${highlight('最新战报：')}星区闪击行动已经结束。争议星系的局势正在恢复正常。`",
+  "'A complete report can be viewed in the Fleet Menu.'": "'完整报告可在舰队菜单中查看。'",
+  "numbers.length === 2 ? 'sectors' : 'sector'": "numbers.length === 2 ? '星区' : '星区'"
+}

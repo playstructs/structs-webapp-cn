@@ -1,0 +1,9 @@
+{
+  "'Recover Account'": "'找回账号'",
+  "waitingOptions.waitingMessage = 'Recovering your account.';": "waitingOptions.waitingMessage = '正在找回你的账号。';",
+  "<div>Please enter the 12-word Recovery Key associated with your account.</div>": "<div>请输入账号对应的 12 个单词的恢复密钥。</div>",
+  ">What is my Recovery Key?</a>": ">什么是恢复密钥？</a>",
+  "<span>Recovery Key</span>": "<span>恢复密钥</span>",
+  "placeholder=\"word word word ...\"": "placeholder=\"单词 单词 单词 …\"",
+  ">Next</button>": ">下一步</button>"
+}

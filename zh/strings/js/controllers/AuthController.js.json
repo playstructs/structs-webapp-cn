@@ -1,0 +1,10 @@
+{
+  "'Skip Tutorial?'": "'跳过教程？'",
+  "'Are you sure you want to skip the tutorial? You can revisit the tutorial later from the menu.'": "'确定要跳过教程吗？之后仍可从菜单重新进入教程。'",
+  "'Skip Tutorial',": "'跳过教程',",
+  "menuWaitingOptions.headerBtnLabel = 'Logout';": "menuWaitingOptions.headerBtnLabel = '退出登录';",
+  "menuWaitingOptions.waitingMessage = 'Logging out.';": "menuWaitingOptions.waitingMessage = '正在退出登录。';",
+  "$keep": [
+    "Auth"
+  ]
+}

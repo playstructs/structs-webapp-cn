@@ -1,0 +1,8 @@
+{
+  "'Activate Device'": "'激活设备'",
+  "Activation Cancelled": "激活已取消",
+  "<div>This device has not been logged in.</div>": "<div>本设备未登录。</div>",
+  ">Try Again</button>": ">重试</button>",
+  "Log In With Recovery Key": "使用恢复密钥登录",
+  "'<div>Your logged-in device denied this request, or could not approve it.</div>'": "'<div>你已登录的设备拒绝了此请求，或无法批准此请求。</div>'"
+}

@@ -1,0 +1,5 @@
+{
+  "MenuPage.setPageTemplateHeaderBtn('Transfers',": "MenuPage.setPageTemplateHeaderBtn('发送',",
+  "<span class=\"sui-text-header\">Send Alpha</span>": "<span class=\"sui-text-header\">发送阿尔法</span>",
+  "<span class=\"sui-text-header\">Transaction History</span>": "<span class=\"sui-text-header\">收发记录</span>"
+}

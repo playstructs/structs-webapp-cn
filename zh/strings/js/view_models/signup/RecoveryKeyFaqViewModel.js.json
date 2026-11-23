@@ -1,0 +1,14 @@
+{
+  "pageHeader.pageLabel = 'About Recovery Keys';": "pageHeader.pageLabel = '关于恢复密钥';",
+  ">What is a Recovery Key?</div>": ">什么是恢复密钥？</div>",
+  "<div>Your recovery key is the 12-word secret code that was given to you when you created your account.</div>": "<div>恢复密钥是创建账号时给你的一组由 12 个单词组成的密码。</div>",
+  ">Why do I need my Recovery Key?</div>": ">为什么需要恢复密钥？</div>",
+  "<div>In the event that you lose access to your account, you can use your Recovery Key to log in.</div>": "<div>如果你无法访问账号，可以使用恢复密钥登录。</div>",
+  ">How can I protect my Recovery Key?</div>": ">怎样保护恢复密钥？</div>",
+  "<div>It is important to write down your Recovery Key and keep it in a safe place. You may also consider saving your Recovery Key to a password manager. We do not store Recovery Keys and cannot help you retrieve your Key if you lose it.</div>": "<div>请务必抄下恢复密钥并妥善保管，也可以将它存入密码管理器。我们不保存恢复密钥，如果遗失，我们无法帮你找回。</div>",
+  ">I want to log in on a new device. Do I need my recovery Key?</div>": ">我想在新设备上登录，需要恢复密钥吗？</div>",
+  "<div>No. If you currently have access to a logged-in device, you can log in a new device by using the <a": "<div>不需要。如果你手边有已登录的设备，可以使用<a",
+  ">Login From Another Device</a> option.<br>": ">从其他设备登录</a>功能登录新设备。<br>",
+  "Note: this option is only available if the logged-in device has Account Management permissions.<br>": "注意：已登录的设备须拥有设备管理权限才能使用此功能。<br>",
+  "If you have no currently logged-in devices with Account Management permissions, you will need to use your Recovery Key to log in again.": "如果你没有拥有设备管理权限的已登录设备，则需要使用恢复密钥重新登录。"
+}

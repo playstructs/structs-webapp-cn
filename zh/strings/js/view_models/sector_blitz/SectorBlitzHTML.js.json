@@ -1,0 +1,21 @@
+{
+  "emptyHTML(message = 'No Activity')": "emptyHTML(message = '暂无活动')",
+  "\n          Other\n": "\n          其他\n",
+  "'No Winner'": "'无胜者'",
+  ">Winning Guild</div>": ">获胜公会</div>",
+  "data-sui-tooltip=\"Influence Points\"": "data-sui-tooltip=\"影响力点数\"",
+  "sui-mod-default\">Defender</span>": "sui-mod-default\">防守方</span>",
+  "sui-mod-destructive\">Attacker</span>": "sui-mod-destructive\">进攻方</span>",
+  "'Tied First'": "'并列第一'",
+  "'Second Place'": "'第二名'",
+  "'Third Place'": "'第三名'",
+  "'Fourth Place'": "'第四名'",
+  ">Top Guild</div>": ">顶尖公会</div>",
+  ">Top Player</div>": ">顶尖玩家</div>",
+  ">Sector Results</div>": ">星区结果</div>",
+  "emptyHTML('No Activity in Sector')": "emptyHTML('本星区暂无活动')",
+  "$keep": [
+    "PID #",
+    "VS"
+  ]
+}

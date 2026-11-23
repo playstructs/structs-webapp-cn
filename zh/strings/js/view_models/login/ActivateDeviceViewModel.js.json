@@ -1,0 +1,10 @@
+{
+  "'Activation Code is invalid or has expired.'": "'激活码无效或已过期。'",
+  "'Activate Device'": "'激活设备'",
+  "<div>To receive an activation code, go to <span class=\"sui-text-secondary\">Account > Devices</span> on any logged in device.</div>": "<div>要获取激活码，请在任意已登录的设备上前往<span class=\"sui-text-secondary\">账号 > 设备</span>。</div>",
+  "<span>Activation Code</span>": "<span>激活码</span>",
+  "placeholder=\"Enter Code\"": "placeholder=\"输入激活码\"",
+  ">Submit</button>": ">提交</button>",
+  "<div>Not logged in anywhere else?</div>": "<div>没有其他已登录的设备？</div>",
+  "Log In With Recovery Key": "使用恢复密钥登录"
+}

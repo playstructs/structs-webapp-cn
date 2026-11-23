@@ -1,0 +1,9 @@
+{
+  "'Activate Device'": "'激活设备'",
+  "alt=\"3 dots loading animation\"": "alt=\"三点加载动画\"",
+  "<span>Please review and confirm the activation request on your logged-in device.</span>": "<span>请在已登录的设备上查看并确认激活请求。</span>",
+  ">Do not close this screen.</span>": ">请勿关闭此页面。</span>",
+  ">DEVICE SEAL</div>": ">设备印章</div>",
+  "data-sui-tooltip=\"Ensure this matches the new device's seal on your other device.\"": "data-sui-tooltip=\"请确认此印章与另一台设备上显示的新设备印章一致。\"",
+  ">What's this?</a>": ">这是什么？</a>"
+}

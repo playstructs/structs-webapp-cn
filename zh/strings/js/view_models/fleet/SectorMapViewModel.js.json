@@ -1,0 +1,8 @@
+{
+  ">Select Sector</span>": ">选择星区</span>",
+  "data-sui-tooltip=\"Scroll, Click-and-Drag or swipe to navigate the map.\"": "data-sui-tooltip=\"滚动、点按拖动或滑动即可浏览地图。\"",
+  "data-sui-tooltip=\"The guild currently controlling this sector.\"": "data-sui-tooltip=\"当前控制本星区的公会。\"",
+  ">Scan Sector</a>": ">扫描星区</a>",
+  "MenuPage.setPageTemplateHeaderBtn('Sector Map',": "MenuPage.setPageTemplateHeaderBtn('星区地图',",
+  "alt=\"Map of the contested sectors\"": "alt=\"争夺中的星区地图\""
+}

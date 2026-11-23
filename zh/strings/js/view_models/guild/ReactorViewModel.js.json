@@ -1,0 +1,23 @@
+{
+  "MenuPage.setPageTemplateHeaderBtn('Alpha Reactor',": "MenuPage.setPageTemplateHeaderBtn('阿尔法反应堆',",
+  "alt=\"alpha reactor\"": "alt=\"阿尔法反应堆\"",
+  "sui-text-secondary\">ALPHA MATTER</div>": "sui-text-secondary\">阿尔法物质</div>",
+  "<div class=\"sui-text-hint\">Alpha Infused</div>": "<div class=\"sui-text-hint\">已注入阿尔法</div>",
+  "'Alpha infused with the guild',": "'在公会注入的阿尔法',",
+  "                      Cooldown\n": "                      冷却\n",
+  "data-sui-tooltip=\"When removed from a Reactor, Alpha Matter must cool down before use.\"": "data-sui-tooltip=\"从反应堆取出的阿尔法物质须冷却后才能使用。\"",
+  "'Alpha removed from the reactor that must cooldown before reuse',": "'从反应堆取出、冷却后才能再次使用的阿尔法',",
+  "sui-text-secondary\">ENERGY</div>": "sui-text-secondary\">能源</div>",
+  "<div class=\"sui-text-hint\">Total Supply</div>": "<div class=\"sui-text-hint\">总供应</div>",
+  "'Expected supply of power',": "'预计能源供应',",
+  ">Manage Alpha</a>": ">管理阿尔法</a>",
+  "sui-text-header\">Reactor Details</div>": "sui-text-header\">反应堆详情</div>",
+  "                  Guild Minimum\n": "                  公会最低注入量\n",
+  "data-sui-tooltip=\"The minimum Alpha Matter that must be infused for Guild Membership.\"": "data-sui-tooltip=\"成为公会成员至少需要注入的阿尔法物质。\"",
+  "'Minimum alpha required to join guild',": "'加入公会所需的最低阿尔法',",
+  "                  Reactor Efficiency\n": "                  反应堆效率\n",
+  "data-sui-tooltip=\"The amount of Energy supplied for each additional Alpha Matter infused.\"": "data-sui-tooltip=\"每多注入一份阿尔法物质所供应的能源量。\"",
+  "                  Commission\n": "                  抽成\n",
+  "data-sui-tooltip=\"The percentage of Energy taken by the guild.\"": "data-sui-tooltip=\"公会抽取的能源比例。\"",
+  "'The guild\\'s cut',": "'公会抽成',"
+}

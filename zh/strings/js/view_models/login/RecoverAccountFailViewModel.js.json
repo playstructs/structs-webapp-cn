@@ -1,0 +1,7 @@
+{
+  "'Recover Account'": "'找回账号'",
+  "Invalid Recovery Key": "恢复密钥无效",
+  "<div>The Recovery Key provided did not match any known account. Please ensure each word is spelled correctly and is entered in the correct order.</div>": "<div>输入的恢复密钥与任何已知账号都不匹配。请确认每个单词拼写正确且顺序无误。</div>",
+  ">Try Again</button>": ">重试</button>",
+  "Log In From Another Device": "从其他设备登录"
+}

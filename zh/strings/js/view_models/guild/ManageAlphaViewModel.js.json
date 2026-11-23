@@ -1,0 +1,17 @@
+{
+  "`Alpha will be removed from your inventory and added to the reactor.`": "`阿尔法将从你的库存中取出并加入反应堆。`",
+  "`Alpha will be removed from the reactor and put on cooldown.`": "`阿尔法将从反应堆中取出并进入冷却。`",
+  "The Guild Minimum is ${this.joinInfusionMinimum} Alpha Matter.": "公会最低注入量为 ${this.joinInfusionMinimum} 阿尔法物质。",
+  "? 'Infusing...' : 'Defusing...';": "? '注入中……' : '取出中……';",
+  "'The change continues if you leave this screen.'": "'离开此页面后，更改仍会继续。'",
+  "'Confirmed on chain. The reactor display has not caught up yet; check it again shortly.'": "'更改已确认。反应堆显示尚未更新，请稍后再查看。'",
+  "MenuPage.setPageTemplateHeaderBtn('Manage Alpha',": "MenuPage.setPageTemplateHeaderBtn('管理阿尔法',",
+  "alt=\"alpha reactor\"": "alt=\"阿尔法反应堆\"",
+  "'Alpha to infuse',": "'要注入的阿尔法',",
+  "'Expected energy supply',": "'预计能源供应',",
+  "sui-mod-secondary\">Cancel</a>": "sui-mod-secondary\">取消</a>",
+  "sui-mod-primary\">Save Changes</a>": "sui-mod-primary\">保存更改</a>",
+  "$keep": [
+    "[ManageAlpha] reactor state unavailable:"
+  ]
+}

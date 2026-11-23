@@ -1,0 +1,7 @@
+{
+  "view.headerBtnLabel = 'Combat Tutorial';": "view.headerBtnLabel = '战斗教程';",
+  "view.messageHeaderText = 'Start Tutorial?';": "view.messageHeaderText = '开始教程？';",
+  "'Your Structs will continue to operate normally in the background. You can exit the tutorial at any time from the main menu.'": "'你的构装体会在后台照常运作。你可以随时从主菜单退出教程。'",
+  "view.confirmBtn1Label = 'Start Tutorial';": "view.confirmBtn1Label = '开始教程';",
+  "view.confirmBtn2Label = 'Cancel';": "view.confirmBtn2Label = '取消';"
+}

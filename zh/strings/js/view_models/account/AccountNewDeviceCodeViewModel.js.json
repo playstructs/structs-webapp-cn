@@ -1,0 +1,8 @@
+{
+  "      'Activate New Device',\n": "      '激活新设备',\n",
+  "sui-mod-primary\">Generate Activation Code</button>": "sui-mod-primary\">生成激活码</button>",
+  "sui-mod-primary\">Activation Code</div>": "sui-mod-primary\">激活码</div>",
+  "sui-mod-primary\">Generate New Code</button>": "sui-mod-primary\">重新生成激活码</button>",
+  "<div class=\"sui-text-warning\">Do not close this screen until activation is complete.</div>": "<div class=\"sui-text-warning\">激活完成前请勿关闭此页面。</div>",
+  "<div>Enter the above code on the Returning Player screen on your new device to activate it.</div>": "<div>在新设备的“老玩家”页面输入上方的激活码即可激活。</div>"
+}

@@ -1,0 +1,10 @@
+{
+  "alt=\"SNC logo\"": "alt=\"@GUILD@标志\"",
+  ">WE KNOW BETTER.</h2>": ">@MOTTO@</h2>",
+  "`You have been contracted by SN.CORPORATION, a member of the": "`您已与@GUILD@签约。本公司隶属于",
+  "data-sui-tooltip=\"A loose federation of machine states with the goal of [REDACTED]\"": "data-sui-tooltip=\"由机器国家组成的松散联邦，其目标是[已屏蔽]\"",
+  ">Structs Conglomerate</a>,": ">构装体集团</a>，",
+  "to conduct Alpha Matter mining operations in the Milky Way Galaxy.`": "您将在银河系从事阿尔法物质采矿作业。`",
+  "'SN.Corporation'": "'@GUILD@'",
+  "src=\"/img/logo-snc.gif\"": "src=\"@BADGE@\""
+}

@@ -1,0 +1,10 @@
+{
+  "`<div>No results found. Please try a different search term.</div>`": "`<div>没有找到结果，请换个关键词试试。</div>`",
+  "MenuPage.setPageTemplateHeaderBtn('Scan Results',": "MenuPage.setPageTemplateHeaderBtn('扫描结果',",
+  "data-sui-tooltip=\"Influence Points\"": "data-sui-tooltip=\"影响力点数\"",
+  ": 'View';": ": '查看';",
+  "$keep": [
+    "PID #",
+    "Fleet"
+  ]
+}

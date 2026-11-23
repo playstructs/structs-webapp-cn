@@ -1,0 +1,11 @@
+{
+  "{% block title %}Structs{% endblock %}": "{% block title %}构装体 Structs{% endblock %}",
+  "href=\"javascript:void(0)\">Structs</a>": "href=\"javascript:void(0)\">构装体</a>",
+  "alt=\"Structs logo with animated progress bar\"": "alt=\"带进度条动画的构装体标志\"",
+  "<h1>Loading Assets</h1>": "<h1>资源载入中</h1>",
+  "$keep": [
+    "{% extends 'base.html.twig' %}",
+    "{% block body %}",
+    "{% endblock %}"
+  ]
+}

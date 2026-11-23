@@ -1,0 +1,29 @@
+/*
+ * Chinese for structs-webapp's fonts.
+ *
+ * DirectiveZero and ExtremeHazard are ASCII only. Rather than restyle every
+ * rule that uses them, each family gains a second face that covers only
+ * Chinese characters and punctuation, set in Fusion Pixel 12px SC (SIL OFL
+ * 1.1), a Simplified Chinese pixel font. The browser takes those from it and
+ * everything else from webapp's own fonts.
+ */
+
+@font-face {
+  font-family: DirectiveZero;
+  src: url(/zh/fonts/FusionPixel12-SC.woff2) format('woff2');
+  font-display: swap;
+  unicode-range: U+B7, U+2013-2014, U+2018-2019, U+201C-201D, U+2026, U+3000-303F, U+3400-9FFF, U+F900-FAFF, U+FF01-FF60;
+}
+
+/*
+ * webapp sets ExtremeHazard, a small-caps pixel face, at 8px for buttons,
+ * tabs and labels: too small for Chinese. At 150% its Chinese is 12px, the
+ * size Fusion Pixel is drawn for.
+ */
+@font-face {
+  font-family: ExtremeHazard;
+  src: url(/zh/fonts/FusionPixel12-SC.woff2) format('woff2');
+  font-display: swap;
+  unicode-range: U+B7, U+2013-2014, U+2018-2019, U+201C-201D, U+2026, U+3000-303F, U+3400-9FFF, U+F900-FAFF, U+FF01-FF60;
+  size-adjust: 150%;
+}

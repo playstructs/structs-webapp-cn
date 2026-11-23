@@ -1,0 +1,20 @@
+{
+  "options.headerBtnLabel = 'Manage Device';": "options.headerBtnLabel = '管理设备';",
+  "options.waitingMessage = 'Saving changes.';": "options.waitingMessage = '正在保存更改。';",
+  "location = `[PRIMARY DEVICE]<br>${location}`;": "location = `[主设备]<br>${location}`;",
+  "sui-text-secondary\">Primary Device Logout</div>": "sui-text-secondary\">主设备退出登录</div>",
+  "sui-text-ticker\">Remote logout is not available for primary devices. Please log out using the primary device itself.</div>": "sui-text-ticker\">主设备无法远程退出登录。请在主设备上操作。</div>",
+  ">Log Out</a>": ">退出登录</a>",
+  "        'Manage Device',\n": "        '管理设备',\n",
+  "<div>${userAgent.getBrowser()} Browser</div>": "<div>${userAgent.getBrowser()} 浏览器</div>",
+  "<div>Device permissions:</div>": "<div>设备权限：</div>",
+  "\">\n                Manage Devices\n": "\">\n                管理设备\n",
+  "data-sui-tooltip=\"The ability to logout other devices or change their permissions.\"": "data-sui-tooltip=\"可让其他设备退出登录或更改其权限。\"",
+  "\">\n                Transfer Assets\n": "\">\n                发送资源\n",
+  "data-sui-tooltip=\"The ability to send Alpha to other accounts.\"": "data-sui-tooltip=\"可向其他账号发送阿尔法。\"",
+  ">Cancel</a>": ">取消</a>",
+  ">Save</a>": ">保存</a>",
+  "This is the only device that can manage devices, so it must keep this permission.\n              Give Manage Devices to another device first.": "这是唯一能管理设备的设备，因此必须保留此权限。\n              请先将“管理设备”权限授予另一台设备。",
+  "The primary device always keeps full access, so its permissions cannot be changed.": "主设备始终拥有全部权限，无法更改。",
+  ">Your changes were not saved. Please try again.</div>": ">更改未能保存，请重试。</div>"
+}

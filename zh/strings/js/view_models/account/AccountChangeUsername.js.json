@@ -1,0 +1,8 @@
+{
+  "\"This device doesn't have permission to change the display name. Sign in on a device with management permissions to update it.\"": "\"本设备没有修改昵称的权限。请在拥有管理权限的设备上登录后修改。\"",
+  "'Change Display Name',": "'修改昵称',",
+  "\"Name must be 3\\u201320 characters and only include letters, numbers, '-' and '_'.\"": "\"昵称须为 3–20 个字符，只能包含文字、数字、“-”和“_”。\"",
+  "<span>Display Name</span>": "<span>昵称</span>",
+  "placeholder=\"Type your new display name\"": "placeholder=\"输入新昵称\"",
+  "sui-mod-disabled\" disabled>Submit</button>": "sui-mod-disabled\" disabled>提交</button>"
+}

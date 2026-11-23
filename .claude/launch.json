@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "structs-webapp-cn",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev"],
+      "port": 5185
+    },
+    {
+      "name": "structs-webapp-cn-dist",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "5186", "--directory", "dist"],
+      "port": 5186
+    }
+  ]
+}

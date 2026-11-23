@@ -1,0 +1,13 @@
+{
+  "options.headerBtnLabel = 'Transferring...';": "options.headerBtnLabel = '发送中……';",
+  "'The transfer continues if you leave this screen.'": "'离开此页面后，发送仍会继续。'",
+  "'Confirmed on chain. Your transfer history has not caught up yet; check it again shortly.'": "'发送已确认。记录尚未更新，请稍后再查看。'",
+  "let html = 'Non-Player Address';": "let html = '非玩家账号';",
+  ": 'Name Redacted';": ": '名称已隐藏';",
+  "MenuPage.setPageTemplateHeaderBtn('Confirm Transfer',": "MenuPage.setPageTemplateHeaderBtn('确认发送',",
+  "sui-text-header\">Transaction Details</div>": "sui-text-header\">发送详情</div>",
+  "<div>Amount</div>": "<div>数量</div>",
+  "<div>Recipient</div>": "<div>接收方</div>",
+  ">Cancel</a>": ">取消</a>",
+  ">Transfer Now</a>": ">立即发送</a>"
+}

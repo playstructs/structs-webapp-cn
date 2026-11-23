@@ -1,0 +1,14 @@
+{
+  "'A slow Ninja presentation'": "'Slow Ninja 出品'",
+  "'Thousands of years ago, the inhabitants of the Milky Way discovered a dangerously unstable new element -- Alpha Matter, the fuel of galactic civilization.'": "'数千年前，银河系的居民发现了一种极不稳定的新元素——阿尔法物质，银河文明的燃料。'",
+  "'In 3029, a catastrophic Alpha mining accident obliterated the Hoag star system, extinguishing 2 billion souls. The galaxy teetered on the brink of civil war.'": "'3029 年，一场灾难性的阿尔法采矿事故抹去了霍格星系，20 亿生灵就此消逝。银河濒临内战边缘。'",
+  "'The Alpha Star Council decreed only Structs, mysterious machines of unknown origin, could be trusted to mine Alpha Matter.'": "'阿尔法星议会颁布法令：只有构装体——来历不明的神秘机器——才能受托开采阿尔法物质。'",
+  "'The year is 402X.'": "'时值 402X 年。'",
+  "'Alpha-seeded Worlds controlled by Structs:'": "'构装体控制的阿尔法播种星球：'",
+  "'Alpha-seeded Worlds controlled by Organics:'": "'有机体控制的阿尔法播种星球：'",
+  ">Play Me</a>": ">播放</a>",
+  "Press <span class=\"tutorial-highlight\">ENTER</span> to Skip": "按 <span class=\"tutorial-highlight\">ENTER</span> 跳过",
+  "$keep": [
+    "ENTER"
+  ]
+}

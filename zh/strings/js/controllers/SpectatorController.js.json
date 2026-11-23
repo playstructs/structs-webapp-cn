@@ -1,0 +1,17 @@
+{
+  "title: 'Spectating',": "title: '观战',",
+  "'Connecting to the battle...'": "'正在连接战斗……'",
+  "'This battle could not be loaded. It may have just ended. Try again from the Event Leaderboard.'": "'无法载入这场战斗，它可能刚刚结束。请从活动排行榜重试。'",
+  "'This battle is over. Pick another from Current Battles on the Event Leaderboard.'": "'这场战斗已经结束。请从活动排行榜的“当前战斗”中另选一场。'",
+  "'Sector Blitz is not running right now, so there are no battles to watch.'": "'星区闪击目前没有进行，因此没有可观看的战斗。'",
+  "|| 'The defender')": "|| '防守方')",
+  "|| 'The attacker')": "|| '进攻方')",
+  "`${attacker} won the raid.`": "`${attacker} 突袭成功。`",
+  "`${defender} defended the planet.`": "`${defender} 守住了行星。`",
+  "`${attacker} retreated. ${defender} keeps the planet.`": "`${attacker} 已撤退，${defender} 保住了行星。`",
+  "`${defender}'s planet was demilitarized.`": "`${defender} 的行星已被解除武装。`",
+  "`Battle over. ${": "`战斗结束。${",
+  "$keep": [
+    "Spectator"
+  ]
+}

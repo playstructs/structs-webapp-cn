@@ -1,0 +1,14 @@
+{
+  "'Loading...', TUTORIAL_COPY": "'载入中……', TUTORIAL_COPY",
+  "'Restart Tutorial?'": "'重新开始教程？'",
+  "'Are you sure you want to restart the tutorial? Your progress will be reset.'": "'确定要重新开始教程吗？当前进度将被重置。'",
+  "'Restart Tutorial',": "'重新开始教程',",
+  "'Abandon Tutorial?'": "'放弃教程？'",
+  "'Are you sure you want to abandon the tutorial? You can revisit the tutorial later from the menu.'": "'确定要放弃教程吗？之后仍可从菜单重新进入教程。'",
+  "'Abandon Tutorial',": "'放弃教程',",
+  "'Status',": "'状态',",
+  "'CMD Ship jumping to a new planet'": "'指挥舰正在跃迁至新行星'",
+  "$keep": [
+    "Tutorial"
+  ]
+}

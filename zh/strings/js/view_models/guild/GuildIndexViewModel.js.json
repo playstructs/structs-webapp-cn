@@ -1,0 +1,10 @@
+{
+  "MenuPage.setPageTemplateHeaderBtn('Guild Status');": "MenuPage.setPageTemplateHeaderBtn('公会状态');",
+  "<span class=\"sui-text-header\">Alpha Reactor</span>": "<span class=\"sui-text-header\">阿尔法反应堆</span>",
+  "\">${alphaInfused} Alpha Infused</div>": "\">已注入 ${alphaInfused} 阿尔法</div>",
+  "<span class=\"sui-text-header\">Guild Profile</span>": "<span class=\"sui-text-header\">公会资料</span>",
+  "<span class=\"sui-text-header\">Member Roster</span>": "<span class=\"sui-text-header\">成员名册</span>",
+  "\">${memberCount} Members</div>": "\">${memberCount} 名成员</div>",
+  "<span class=\"sui-text-header\">Guilds Directory</span>": "<span class=\"sui-text-header\">公会名录</span>",
+  "\">${guildCount} Guilds</div>": "\">${guildCount} 个公会</div>"
+}

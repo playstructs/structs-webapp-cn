@@ -1,0 +1,16 @@
+{
+  "data-sui-tooltip=\"Influence Points\"": "data-sui-tooltip=\"影响力点数\"",
+  "'Leaderboard Position'": "'排行榜名次'",
+  "'Earned from Raids'": "'突袭所得'",
+  "'KOTH Bonus'": "'占领奖励'",
+  "'Sector Score'": "'星区得分'",
+  "'Total Event Score'": "'活动总分'",
+  ">View</a>": ">查看</a>",
+  ">Your Performance</div>": ">你的表现</div>",
+  ">Guild Leaderboard</div>": ">公会排行榜</div>",
+  ">Player Leaderboard</div>": ">玩家排行榜</div>",
+  "'No Activity in Sector'": "'本星区暂无活动'",
+  "$keep": [
+    "Fleet"
+  ]
+}
