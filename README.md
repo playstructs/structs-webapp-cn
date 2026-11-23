@@ -58,7 +58,7 @@ asks a join minimum, or the chain can't be read (`zh/runtime/recovery.js`).
 
 | | |
 |---|---|
-| Guild | `0-16` 画饼集团, owned by founder player `1-14689` (`structs1f7h5l7ajp2xt8a6tqxd4edkusgj0eylrsx2d9v`) |
+| Guild | `0-16` Huabing Jituan (画饼集团), owned by founder player `1-14689` (`structs1f7h5l7ajp2xt8a6tqxd4edkusgj0eylrsx2d9v`) |
 | Primary reactor | `3-2` ChainTools |
 | Entry substation | `4-27`, fed by allocation `6-77` from the guild's own stake |
 | Joining | open: join minimum 0, invite bypass permissioned |
@@ -68,6 +68,9 @@ asks a join minimum, or the chain can't be read (`zh/runtime/recovery.js`).
 
 It was founded with the Latin tag `HUABING`, the only kind the founding tool
 takes; guild.json's `画饼` is the one shown.
+
+Its name is spelled in Latin for now, on chain and in guild.json;
+`zh/identity.json` still has 画饼集团 for sign-up and the tutorial.
 
 ## Sign-up and the player's key
 
