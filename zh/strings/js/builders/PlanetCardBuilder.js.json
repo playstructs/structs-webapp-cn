@@ -1,6 +1,8 @@
 {
   "alt=\"3 dots loading animation\"": "alt=\"三点加载动画\"",
   "primaryBtnLabel = 'Command';": "primaryBtnLabel = '指挥';",
+  "'Insufficient Energy. Deactivate Structs to reduce Energy draw.'": "'能源不足。停用部分构装体以降低能源消耗。'",
+  "alphaBaseCard.alertMessage = 'Failed to depart.';": "alphaBaseCard.alertMessage = '离开失败。';",
   "alphaBaseCard.alertMessage = 'All Alpha extracted.';": "alphaBaseCard.alertMessage = '阿尔法已全部采尽。';",
   "secondaryBtnLabel = 'Depart';": "secondaryBtnLabel = '离开';",
   "alphaBaseCard.alertMessage = 'Depart planet?';": "alphaBaseCard.alertMessage = '要离开行星吗？';",
